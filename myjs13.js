@@ -1,5 +1,3 @@
-// Arrow Function
-
 funtion test01(x, y){
     console.log(x)
     y()
